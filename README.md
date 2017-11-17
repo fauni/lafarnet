@@ -1,10 +1,10 @@
-# Lafarnet
+# Lafarnet - INTRANET
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.2.
+Este proyecto fue creado  [Angular CLI](https://github.com/angular/angular-cli) version 1.5.2.
 
-## Development server
+## Servidor de Desarrollo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. Esta aplicación es recargada automaticamente si se realiza algun cambio en algun archivo del proyecto.
 
 ## Code scaffolding
 
