@@ -447,7 +447,7 @@ ul.side-nav.fixed:hover {
   /*overflow-y:hidden;*/
 }
 ul.side-nav.fixed li.user-details {
-  background: url(../images/user-bg.jpg) no-repeat center center;
+  background: url(../images/laboratorios.png) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1165,9 +1165,9 @@ tr.group:hover {
 /*----------------------------------------
     Login Page
 ------------------------------------------*/
-
+/*
 .login-form {
-  width: 280px;  
+  width: 300px;  
 }
 .login-form-text{
   text-transform: uppercase;
@@ -1175,14 +1175,29 @@ tr.group:hover {
   font-size: 0.8rem;
 }
 .profile-image-login{
-  width: 100px;
-  height: 100px !important;
+  width: 70%;
+  height: 150px !important;
 }
 
 .login-text {
   margin-top: -6px;
   margin-left: -6px !important;
+}*/
+
+html,
+body {
+    height: 100%;
+    background:white;
 }
+/*
+html {
+    display: table;
+    margin: auto;
+}
+body {
+    display: table-cell;
+    vertical-align: middle;
+}*/
 /*----------------------------------------
     Error Page
 ------------------------------------------*/
